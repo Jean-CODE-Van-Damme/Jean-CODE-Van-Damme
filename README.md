@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello 👋 , I'm Olivier Reverseau.<br><br> 📚 I've just finished studying at Le Reacteur.  https://www.lereacteur.io/. <br> 
+Hello 👋 , I'm Olivier Reverseau.<br><br> 📚 I studied at Le Reacteur.  https://www.lereacteur.io/. <br> 
 
 
 💼 I am currently on an internship at Holy Owly for a period of six months. https://www.holyowly.fr/ <br><br>
