@@ -2,7 +2,7 @@
 Hello 👋 , I'm Olivier Reverseau.<br><br> 📚 I studied at <a href="https://www.lereacteur.io/"> Le Reacteur </a> <br> 
 
 
-💼 I am currently on an internship at Holy Owly for a period of six months. https://www.holyowly.fr/ <br><br>
+💼 I am currently on an internship at <a href="https://www.holyowly.fr"/> Holy Owly</a> for a period of six months.  <br><br>
 
 How to reach me: <br> 📫 oreverseau@live.fr<br>📱  06.82.70.04.44
 
